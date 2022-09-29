@@ -1,2 +1,2 @@
-# MiniProject2
+# CSS CheatSheet
 CSS Snipets
