@@ -64,16 +64,17 @@ article:hover, article:hover h2{
 }
 
 @media screen and (max-width: 992px) {
-    .box {
+    article {
+        display:flex;
         flex-direction: column;
-      width: 50%;
+      width: 40%;
     }
   }
 
 @media screen and (max-width: 768px) {
-    .box {
+    article {
         display:flex;
       flex-direction: column;
-      width: 100%;
+      width: 90%;
     }
   }
